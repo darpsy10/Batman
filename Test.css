@@ -5,5 +5,9 @@ body{
     background-color: blue;
 }
 .tile{
-    background-image: url()
+    background-color: blue;
+    width: auto;
+    border: auto Solid; 
+    padding: 20px;
+    margin: 50px;
 }
