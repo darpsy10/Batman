@@ -6,8 +6,12 @@ body{
 }
 .tile{
     background-color: blue;
-    width: auto;
-    border: auto Solid; 
+    width: 100px;
+    border: 15px Solid; 
     padding: 20px;
     margin: 50px;
+    float: left;
+}
+#picture{
+    width: 320px
 }
